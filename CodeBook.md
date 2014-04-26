@@ -1,4 +1,5 @@
-# CodeBook.md
+CodeBook
+================
 --------------------------------------------
 
 > | Variables & data     | Description|
