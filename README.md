@@ -30,4 +30,5 @@ Genaral ideas of each stage
 
 ----------------------------------
 **willowChan**
+
 *Getting and Cleaning Data Course Project.*
